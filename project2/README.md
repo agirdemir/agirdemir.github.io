@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/7332f4ce-802d-4adb-afc3-d0c3f9e684cb
 # Projekti 2 – Alumiinilevy: tasku ja kierrereiät
 
 Harjoitusprojekti, jossa ohjelmoin alumiinikappaleen, jossa on suorakaidetasku ja neljä M10-kierrereikää. Ohjelmointi tehtiin Siemens SINUMERIK Operate -ohjauksella (ShopMill) ja ohjelma testattiin SinuTrain-simulaatio-ohjelmistossa.
