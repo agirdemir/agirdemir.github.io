@@ -59,7 +59,7 @@ Mitat voi tarkistaa ruudukosta: levy X 0–100 / Y 0–60, kohouma 5 mm reunoist
 
 ## Video
 
-[▶ Ohjelman ajo SinuTrainissa (MP4)](imgs/Screen%20Recording%202026-10-29%20142921.mp4)
+https://github.com/user-attachments/assets/5fc53f3d-f95c-4b2f-8a14-77e35a09792f
 
 ## Mitä opin
 
