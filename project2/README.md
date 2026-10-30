@@ -88,14 +88,6 @@ Laskentakaavat:
 ### Reikien paikat
 ![Reikien paikat](imgs/positioning.png)
 
-### Simulaatio – 3D-näkymä
-![Simulaatio 3D](imgs/simulation3d.png)
-
-### Simulaatio – yläkuva
-Mitat voi tarkistaa ruudukosta: tasku X 30–70 / Y 20–40, reiät 12 mm reunoista.
-
-![Simulaatio yläkuva](imgs/simulationTop.png)
-
 ## Video
 
 https://github.com/user-attachments/assets/2833d5ec-83de-4934-b880-97505816d06a
