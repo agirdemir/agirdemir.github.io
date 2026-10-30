@@ -70,28 +70,31 @@ Laskentakaavat:
 ### Ohjelma
 ![Ohjelma](imgs/programlist.png)
 
+### Tasojyrsinnän parametrit
+![Tasojyrsinnän parametrit](imgs/facemill.png)
+
 ### Taskun parametrit
-![Taskun parametrit](rect.png)
+![Taskun parametrit](imgs/rect.png)
 
 ### Keskiöinnin parametrit
-![Keskiöinnin parametrit](centering.png)
+![Keskiöinnin parametrit](imgs/centering.png)
 
 ### Porauksen parametrit
-![Porauksen parametrit](poraus.png)
+![Porauksen parametrit](imgs/drilling.png)
 
 ### Kierteityksen parametrit
-![Kierteityksen parametrit](kierteitys.png)
+![Kierteityksen parametrit](imgs/tapping.png)
 
 ### Reikien paikat
-![Reikien paikat](positioning.png)
+![Reikien paikat](imgs/positioning.png)
 
 ### Simulaatio – 3D-näkymä
-![Simulaatio 3D](simulaatio_3d.png)
+![Simulaatio 3D](imgs/simulation3d.png)
 
 ### Simulaatio – yläkuva
 Mitat voi tarkistaa ruudukosta: tasku X 30–70 / Y 20–40, reiät 12 mm reunoista.
 
-![Simulaatio yläkuva](simulaatio_ylakuva.png)
+![Simulaatio yläkuva](imgs/simulationTop.png)
 
 ## Video
 
